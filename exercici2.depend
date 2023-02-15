@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1675080301 source:d:\jaume viladoms\programacion\uf_3\exercici2\main.cpp
-	<iostream>
-	<fstream>
-	<string>
-	<cstring>
-

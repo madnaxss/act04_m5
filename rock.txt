@@ -1,8 +1,0 @@
-                          Disc 0
-------------------------------------------------------------
-Nom grup/artista: prueba
-Nom del cd: rueba22
-Durada del disc: 21
-Preu del disc: 35
-Categoria: rock
-------------------------------------------------------------
